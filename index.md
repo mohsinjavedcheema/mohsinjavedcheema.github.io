@@ -1,10 +1,5 @@
 # Mohsin Javed Cheema
 ```
-House No. 16, Street No. 36
-Sector. F-6/1,
-Islamabad
-```
-```
 E-mail: mohsinjavedcheema@gmail.com
 Website: https://www.linkedin.com/in/mohsin-
 javed-cheema/
